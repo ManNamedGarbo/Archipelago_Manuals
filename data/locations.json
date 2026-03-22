@@ -777,7 +777,7 @@
     "category": [
       "boss_kill"
     ],
-    "requires": []
+    "requires": "|Bridge Keycard|"
   },
   {
     "name": "Chapter 1-1 Gold Ring - Executioner Majini",
